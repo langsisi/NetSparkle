@@ -15,7 +15,7 @@
                     <li>新增功能</li>
                 </ul>
             ]]></description>
-             <enclosure url="https://github.com/langsisi/NetSparkle/releases/download/V1.0.2/NetSparkle.exe" 
+             <enclosure url="https://github.com/langsisi/NetSparkle/releases/download/v1.0.2/NetSparkle.exe" 
                  sparkle:version="1.0.2" 
                  sparkle:shortVersionString="1.0.2" 
                  length="13355095" 
