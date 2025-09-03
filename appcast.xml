@@ -22,7 +22,7 @@
                  sparkle:os="windows" 
                  type="application/x-msdos-program" 
                  sparkle:criticalUpdate="false" 
-                 sparkle:signature="HuukNoC5NeB7XAhPTbiaBASeUpNMYVhRKMDkSg4g8f4/jwjdtBIgls43ONNH00fMPWs5tP8lKyWfA6EF3GY2BQ==" />
+         sparkle:signature="HuukNoC5NeB7XAhPTbiaBASeUpNMYVhRKMDkSg4g8f4/jwjdtBIgls43ONNH00fMPWs5tP8lKyWfA6EF3GY2BQ==" />
         </item>
     </channel>
 </rss>
