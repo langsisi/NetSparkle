@@ -3,24 +3,26 @@
     <channel>
         <title>NetSparkle Updater</title>
         <item>
-            <title>Version 1.0.1</title>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <pubDate>2024-11-27T08:00:00Z</pubDate>
+            <title>Application 1.0.2</title>
+            <pubDate>Wed, 03 Sep 2025 09:34:12 +08:00</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <description><![CDATA[
-                <h1>版本 1.0.1 更新内容</h1>
+                <h1>版本 1.0.2 更新内容</h1>
                 <ul>
                     <li>修复了已知问题</li>
                     <li>性能优化</li>
                     <li>新增功能</li>
                 </ul>
             ]]></description>
-            <enclosure 
-                url="https://github.com/langsisi/NetSparkle/releases/download/V1.01/NetSparkle.exe" 
-                length="13290061" 
-                type="application/octet-stream" 
-                sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="
-            />
+             <enclosure url="https://github.com/langsisi/NetSparkle/releases/download/V1.0.2/NetSparkle.exe" 
+                 sparkle:version="1.0.2" 
+                 sparkle:shortVersionString="1.0.2" 
+                 length="13355095" 
+                 sparkle:os="windows" 
+                 type="application/x-msdos-program" 
+                 sparkle:criticalUpdate="false" 
+                 sparkle:signature="HuukNoC5NeB7XAhPTbiaBASeUpNMYVhRKMDkSg4g8f4/jwjdtBIgls43ONNH00fMPWs5tP8lKyWfA6EF3GY2BQ==" />
         </item>
     </channel>
 </rss>
