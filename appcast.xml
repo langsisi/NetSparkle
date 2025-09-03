@@ -9,7 +9,7 @@
 <title>Version 1.0.1</title>
 <sparkle:releaseNotesLink>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md </sparkle:releaseNotesLink>
 <pubDate>Thu, 27 Oct 2025 10:30:00 +0000</pubDate>
-<enclosure url="https://github.com/langsisi/NetSparkle/releases/download/V1.01/NetSparkle.exe" sparkle:version="1.01" type="application/octet-stream" sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="/>
+<enclosure url="https://github.com/langsisi/NetSparkle/releases/download/V1.01/NetSparkle.exe" sparkle:version="1.0.1" type="application/octet-stream" sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="/>
 </item>
 </channel>
 </rss>
