@@ -1,15 +1,26 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-<script/>
-<channel>
-<title>NetSparkle Test App</title>
-<link>https://raw.githubusercontent.com/langsisi/NetSparkle/refs/heads/main/appcast.xml</link>
-<description>Most recent changes with links to updates.</description>
-<language>en</language>
-<item>
-<title>Version 1.0.1</title>
-<sparkle:releaseNotesLink>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md </sparkle:releaseNotesLink>
-<pubDate>Thu, 27 Oct 2025 10:30:00 +0000</pubDate>
-<enclosure url="https://github.com/langsisi/NetSparkle/releases/download/V1.01/NetSparkle.exe" sparkle:version="1.0.1" type="application/octet-stream" sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="/>
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>NetSparkle Updater</title>
+        <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <pubDate>2024-11-27T08:00:00Z</pubDate>
+            <description><![CDATA[
+                <h1>版本 1.0.1 更新内容</h1>
+                <ul>
+                    <li>修复了已知问题</li>
+                    <li>性能优化</li>
+                    <li>新增功能</li>
+                </ul>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/langsisi/NetSparkle/releases/download/V1.01/NetSparkle.exe" 
+                length="13290061" 
+                type="application/octet-stream" 
+                sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="
+            />
+        </item>
+    </channel>
 </rss>
